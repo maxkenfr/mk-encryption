@@ -1,0 +1,8 @@
+{
+  "name": "mk-encryption",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/maxkenfr/mk-encryption.git",
+  "author": "maxbryselbout <max@maxken.fr>",
+  "license": "MIT"
+}
